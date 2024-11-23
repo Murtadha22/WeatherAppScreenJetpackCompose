@@ -10,13 +10,13 @@ A single-screen weather application showcasing a modern and aesthetically pleasi
   Includes location details, control button, and profile image with custom shadow effects.
 
 - **Current Weather Details**  
-  Displays temperature, weather condition, and the day’s summary.
+  Displays temperature, weather conditions, and the day’s summary.
 
 - **Air Quality Section**  
   Highlights air quality metrics like real feel, wind speed, and more.
 
 - **Weekly Weather Forecast**  
-  Provides a clean overview of the upcoming days' weather with colorful indicators.
+  Provides a clear overview of the weather in the upcoming days with colorful indicators.
 
 ---
 
@@ -24,8 +24,8 @@ A single-screen weather application showcasing a modern and aesthetically pleasi
 
 | Weather Screen Overview |
 |--------------------------|
-| ![Weather Screen](![image](https://github.com/user-attachments/assets/5b9badf5-36ee-46f7-bcb0-4881307a3938)
-) |
+(![image](https://github.com/user-attachments/assets/5b9badf5-36ee-46f7-bcb0-4881307a3938)
+
 
 ---
 
@@ -41,11 +41,3 @@ A single-screen weather application showcasing a modern and aesthetically pleasi
 ## How It Works
 
 This project focuses entirely on UI design and does not include backend integration or live weather data. It demonstrates the use of Compose for layout, theming, and custom UI effects like shadows, gradients, and animations.
-
----
-
-## Setup Instructions
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/weather-app-ui.git
