@@ -24,8 +24,8 @@ A single-screen weather application showcasing a modern and aesthetically pleasi
 
 | Weather Screen Overview |
 |--------------------------|
-![image](![image](https://github.com/user-attachments/assets/f1059369-152c-4562-bff7-c2a90a3d5d6c)
-)
+![image](https://github.com/user-attachments/assets/f1059369-152c-4562-bff7-c2a90a3d5d6c)
+
 
 
 ---
