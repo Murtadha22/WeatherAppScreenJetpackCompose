@@ -38,6 +38,6 @@ A single-screen weather application showcasing a modern and aesthetically pleasi
 
 ---
 
-## How It's Works
+## How It Works
 
 This project focuses entirely on UI design and does not include backend integration or live weather data. It demonstrates the use of Compose for layout, theming, and custom UI effects like shadows, gradients, and animations.
