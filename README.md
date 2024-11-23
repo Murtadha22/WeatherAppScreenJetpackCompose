@@ -20,7 +20,7 @@ A single-screen weather application showcasing a modern and aesthetically pleasi
 
 ---
 
-## Screenshots
+## Screenshot
 
 | Weather Screen Overview |
 |--------------------------|
