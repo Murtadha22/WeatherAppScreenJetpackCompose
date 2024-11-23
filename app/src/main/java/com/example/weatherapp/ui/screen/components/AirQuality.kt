@@ -1,4 +1,4 @@
-package com.example.weatherapp.ui.screens.components
+package com.example.weatherapp.ui.screen.components
 
 
 import androidlead.weatherappui.R
@@ -26,14 +26,12 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.weatherapp.ui.screens.util.AirQualityData
-import com.example.weatherapp.ui.screens.util.AirQualityItem
+import com.example.weatherapp.ui.screen.util.AirQualityData
+import com.example.weatherapp.ui.screen.util.AirQualityItem
 import com.example.weatherapp.ui.theme.ColorAirQualityIconTitle
 import com.example.weatherapp.ui.theme.ColorSurface
 import com.example.weatherapp.ui.theme.ColorTextPrimary
 import com.example.weatherapp.ui.theme.ColorTextPrimaryVariant
-import com.example.weatherapp.ui.theme.ColorTextSecondary
-import com.example.weatherapp.ui.theme.ColorTextSecondaryVariant
 
 @OptIn(ExperimentalLayoutApi::class)
 @Composable

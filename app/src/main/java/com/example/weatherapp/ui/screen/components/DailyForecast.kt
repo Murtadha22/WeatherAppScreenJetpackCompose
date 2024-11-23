@@ -1,4 +1,4 @@
-package com.example.weatherapp.ui.screens.components
+package com.example.weatherapp.ui.screen.components
 
 import androidlead.weatherappui.R
 import androidx.compose.foundation.Image

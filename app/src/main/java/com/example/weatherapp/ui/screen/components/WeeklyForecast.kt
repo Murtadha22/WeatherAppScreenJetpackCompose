@@ -1,4 +1,4 @@
-package com.example.weatherapp.ui.screens.components
+package com.example.weatherapp.ui.screen.components
 
 import androidlead.weatherappui.R
 import androidx.annotation.DrawableRes
@@ -22,7 +22,6 @@ import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
-import androidx.compose.runtime.remember
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Brush
@@ -33,9 +32,9 @@ import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.weatherapp.ui.screens.util.ForecastData
-import com.example.weatherapp.ui.screens.util.ForecastItem
-import com.example.weatherapp.ui.screens.util.fromHex
+import com.example.weatherapp.ui.screen.util.ForecastData
+import com.example.weatherapp.ui.screen.util.ForecastItem
+import com.example.weatherapp.ui.screen.util.fromHex
 import com.example.weatherapp.ui.theme.ColorGradient1
 import com.example.weatherapp.ui.theme.ColorGradient2
 import com.example.weatherapp.ui.theme.ColorGradient3

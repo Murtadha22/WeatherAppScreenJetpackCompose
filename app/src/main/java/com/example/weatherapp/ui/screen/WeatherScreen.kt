@@ -1,4 +1,4 @@
-package com.example.weatherapp.ui.screens
+package com.example.weatherapp.ui.screen
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Spacer
@@ -9,10 +9,10 @@ import androidx.compose.material3.Scaffold
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
-import com.example.weatherapp.ui.screens.components.ActionBar
-import com.example.weatherapp.ui.screens.components.AirQuality
-import com.example.weatherapp.ui.screens.components.DailyForecast
-import com.example.weatherapp.ui.screens.components.WeeklyForecast
+import com.example.weatherapp.ui.screen.components.ActionBar
+import com.example.weatherapp.ui.screen.components.AirQuality
+import com.example.weatherapp.ui.screen.components.DailyForecast
+import com.example.weatherapp.ui.screen.components.WeeklyForecast
 import com.example.weatherapp.ui.theme.ColorBackground
 
 @Composable
